@@ -23,15 +23,15 @@
 [//]: # (</p>)
 
 <h3>Contributes</h3>
-<ul style="display: flex; flex-direction: column; gap: 1rem;">
-    <li style="display: flex; align-items: center; gap: .5rem;"><img src="https://avatars.githubusercontent.com/u/34380267?s=96&v=4" alt="m0netka" width="25" style="border-radius: 50%"> <a href="https://github.com/m0netka">m0netka</a></li>
-    <li style="display: flex; align-items: center; gap: .5rem;"><img src="https://avatars.githubusercontent.com/u/139386796?s=96&v=4" alt="1mkaassel" width="25" style="border-radius: 50%"> <a href="https://github.com/1mkaassel">1mkaassel</a></li>
-    <li style="display: flex; align-items: center; gap: .5rem;"><img src="https://avatars.githubusercontent.com/u/153678441?v=4" alt="Astilisik" width="25" style="border-radius: 50%"> <a href="https://github.com/Astilisik">Astilisik</a></li>
-    <li style="display: flex; align-items: center; gap: .5rem;"><img src="https://avatars.githubusercontent.com/u/10000000000000000?v4" alt="Anonim" width="25" style="border-radius: 50%"> <a href="https://github.com">Anonim</a></li>
-</ul>
+<p style="display: flex; flex-direction: column; gap: 1rem;">
+    <p style="display: flex; align-items: center; gap: .5rem;"><img src="https://avatars.githubusercontent.com/u/34380267?s=96&v=4" alt="m0netka" width="25" style="border-radius: 50%"> <a href="https://github.com/m0netka">m0netka</a></li>
+    <p style="display: flex; align-items: center; gap: .5rem;"><img src="https://avatars.githubusercontent.com/u/139386796?s=96&v=4" alt="1mkaassel" width="25" style="border-radius: 50%"> <a href="https://github.com/1mkaassel">1mkaassel</a></li>
+    <p style="display: flex; align-items: center; gap: .5rem;"><img src="https://avatars.githubusercontent.com/u/153678441?v=4" alt="Astilisik" width="25" style="border-radius: 50%"> <a href="https://github.com/Astilisik">Astilisik</a></li>
+    <p style="display: flex; align-items: center; gap: .5rem;"><img src="https://avatars.githubusercontent.com/u/10000000000000000?v4" alt="Anonim" width="25" style="border-radius: 50%"> <a href="https://github.com">Anonim</a></li>
+</p>
 
 <h3>Feedback</h3>
 If you have any feedback, please reach out to us at contact@alakur.org
 
-<br/>
+<br>
 <img src="https://raw.githubusercontent.com/Alakur/alakur/main/assets/banner.png" alt="banner">
